@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://eeleixeeho.greenminds.se/sitemap.xml
